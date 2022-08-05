@@ -11,7 +11,7 @@
 
 body {
     text-align: center;
-    background: url(/images/pg2.png), url(/images/turma.png), linear-gradient(to bottom, #6ab7f5, #fff);
+    background: url(./images/pg2.png), url(./images/turma.png), linear-gradient(to bottom, #6ab7f5, #fff);
     background-repeat: no-repeat;
     background-position: left, right;
     background-position-y: center, bottom;
